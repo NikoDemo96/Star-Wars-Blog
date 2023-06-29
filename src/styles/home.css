@@ -1,0 +1,9 @@
+.carrusel {
+  width: 100%;
+  overflow-x: scroll;
+}
+
+.starWarsLogo {
+  width: 70px;
+  height: 60px;
+}
